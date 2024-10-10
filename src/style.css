@@ -1,1 +1,10 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+div h1 {
+  font-weight: bold;
+  font-size: 40px;
+  width: 850px;
+}
+body {
+  padding: 15%;
+  display: flex;
+  justify-content: center;
+}
